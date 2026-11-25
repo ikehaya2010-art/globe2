@@ -1,0 +1,8 @@
+{
+  "name": "bigglobe_port",
+  "entry": "bigglobe_port.dll",
+  "version": "0.1.4",
+  "type": "native",
+  "platform": "client",
+  "description": "Experimental Big Globe port scaffold for LeviLamina 26.20.x client (Bedrock 1.26.20.4)"
+}
